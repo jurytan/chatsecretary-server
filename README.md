@@ -1,5 +1,16 @@
 # chatsecretary-server
-Java/Kotlin server for ChatSecretary
+Kotlin server for ChatSecretary
+
+## Dependencies
+- Kafka
+- Redis
+- Lombok
+- JUnit5
+- Ollama
+- OpenAI
+- Websocket
+- Docker-compose
+- Testcontainers
 
 ## Requirements
 - JDK 21
